@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Auth files (important to exclude)
+auth_info/
+creds.json
+
+# Log files
+*.log
+
+# Environment variables or config files that should not be pushed
+.env
+
+# Temporary files or folders
+tmp/
